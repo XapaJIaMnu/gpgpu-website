@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+  <meta charset="UTF-8" /> 
+  <title>GPGPU group @ Edinburgh Informatics</title> 
+  <link rel="stylesheet" type="text/css" media="screen" href="css/probmodels_screen.css" /> 
+  <meta name="viewport" content="width = 800"> 
+</head> 
+<body>
+  <div id="Frame">
+    <div id="Title">
+      <h1>GPGPU group</h1>
+      <h2>@ The University of Edinburgh</h2>
+    </div>
+    <div id="Navbar">
+      <ul>
+        <li><a href="index">About</a></li>
+        <li><a href="people">People</a></li>
+        <li><a href="schedule">Schedule</a></li>
+        <li><a href="publications">Publications</a></li>
+      </ul>
+    </div>
+    <div id="Content">
+    <h2>About</h2>
+      <p>GPGPU is a weekly meeting of staff and students interested in usage of GPUs to do general purpose computing. The aim of the group is
+      to both present and discuss interesting papers, as well as discuss problems and potential solutions in our work.</p>
+<p>The group administrator is <!--a href="http://homepages.inf.ed.ac.uk/sgwater/"-->Nikolay Bogoychev (n.bogoych@ed)<!--/a-->,
+If you are interested please subscribe to the <a href="https://mlist.is.ed.ac.uk/lists/info/gpgpu">mailing list</a>; Check out the
+<a href="schedule">schedule</a> for details about date, time and papers of the next meetings.</p>
+
+      <div id="Tail">
+        <img src="images/informatics_logo.png" alt="School of Informatics Logo" title="The University of Edinburgh's School of Informatics" />
+      </div>
+</div>
+  </div>
+  <div id="Footer"><a href="colophon">Colophon</a></div>
+</body>
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+  <meta charset="UTF-8" /> 
+  <title>GPGPU group @ Edinburgh Informatics</title> 
+  <link rel="stylesheet" type="text/css" media="screen" href="css/probmodels_screen.css" />  
+  <meta name="viewport" content="width = 800"> 
+</head> 
+<body>
+  <div id="Frame">
+    <div id="Title">
+      <h1>GPGPU group</h1>
+      <h2>@ The University of Edinburgh</h2>
+    </div>
+    <div id="Navbar">
+      <ul>
+        <li><a href="index">About</a></li>
+        <li><a href="people">People</a></li>
+        <li><a href="schedule">Schedule</a></li>
+        <li><a href="publications">Publications</a></li>
+      </ul>
+    </div>
+    <div id="Content">
+    <h2>Schedule</h2>
+       <ul id="Schedule">
+        <li>
+          <span class="Date">23 March, IF 2.33, 2PM</span>
+          <span class="Presenter">Nikolay Bogoychev</span>
+          <span class="Title"><a href="http://dl.acm.org/citation.cfm?id=1816021&coll=GUIDE&dl=GUIDE&ret=1#Fulltext">Debunking the 100X GPU vs. CPU myth: an evaluation of throughput computing on CPU and GPU</a></span>
+        </li>
+        <li>
+          <span class="Date">30 March, IF 4.02, 2PM</span>
+          <span class="Presenter">TBD</span>
+          <span class="Title">TBD</span>
+        </li>
+        <li>
+          <span class="Date">6 April, IF 2.33, 2PM</span>
+          <span class="Presenter">TBD</span>
+          <span class="Title">TBD</span>
+        </li>
+        <li>
+          <span class="Date">13 April, IF 2.33, 2PM</span>
+          <span class="Presenter">TBD</span>
+          <span class="Title">TBD</span>
+        </li>
+        <li>
+          <span class="Date">20 April, IF 2.33, 2PM</span>
+          <span class="Presenter">TBD</span>
+          <span class="Title">TBD</span>
+        </li>
+        <li>
+          <span class="Date">27 April, IF 2.33, 2PM</span>
+          <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
+        </li>
+<!-- // Begin copy //
+        <li>
+          <span class="Date">21 September</span>
+          <span class="Presenter"></span>
+          <span class="Title">TBA</span>
+        </li>
+     // End copy // -->
+      </ul>
+</div>
+  </div>
+  <div id="Footer"><a href="colophon">Colophon</a></div>
+</body>
+</html>
