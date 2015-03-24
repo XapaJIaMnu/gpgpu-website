@@ -30,8 +30,8 @@
         </li>
         <li>
           <span class="Date">30 March, IF 4.02, 2PM</span>
-          <span class="Presenter">TBD</span>
-          <span class="Title">TBD</span>
+          <span class="Presenter">Michel Steuwer</span>
+          <span class="Title"><a href="http://vuduc.org/pubs/choi2014-fmm-gpgpu7.pdf">A CPU–GPU Hybrid Implementation and Model-Driven Scheduling of the Fast Multipole Method</a></span>
         </li>
         <li>
           <span class="Date">6 April, IF 2.33, 2PM</span>
@@ -51,6 +51,11 @@
         <li>
           <span class="Date">27 April, IF 2.33, 2PM</span>
           <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">4 May, TBA, 2PM</span>
+          <span class="Presenter">Eric Barnhill</span>
           <span class="Title">TBA</span>
         </li>
 <!-- // Begin copy //
