@@ -56,7 +56,7 @@
         <li>
           <span class="Date">4 May, TBA, 2PM</span>
           <span class="Presenter">Eric Barnhill</span>
-          <span class="Title">TBA</span>
+          <span class="Title"><a href="http://people.csail.mit.edu/jrk/halide-pldi13.pdf">Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines</a></span>
         </li>
 <!-- // Begin copy //
         <li>
