@@ -34,14 +34,9 @@
           <span class="Title"><a href="http://vuduc.org/pubs/choi2014-fmm-gpgpu7.pdf">A CPU–GPU Hybrid Implementation and Model-Driven Scheduling of the Fast Multipole Method</a></span>
         </li>
         <li>
-          <span class="Date">6 April, IF 2.33, 2PM</span>
-          <span class="Presenter">TBD</span>
-          <span class="Title">TBD</span>
-        </li>
-        <li>
           <span class="Date">13 April, IF 2.33, 2PM</span>
-          <span class="Presenter">TBD</span>
-          <span class="Title">TBD</span>
+          <span class="Presenter">Nikolay Bogoychev</span>
+          <span class="Title"><a href="http://www.cs.ucr.edu/~gupta/teaching/260-15/daga-saahpc11-apu-efficacy.pdf">On the Efficacy of a Fused CPU+GPU Processor(or APU) for Parallel Computing</a></span>
         </li>
         <li>
           <span class="Date">20 April, IF 2.33, 2PM</span>
