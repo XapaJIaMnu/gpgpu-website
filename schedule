@@ -26,17 +26,17 @@
         <li>
           <span class="Date">23 March, IF 2.33, 2PM</span>
           <span class="Presenter">Nikolay Bogoychev</span>
-          <span class="Title"><a href="http://dl.acm.org/citation.cfm?id=1816021&coll=GUIDE&dl=GUIDE&ret=1#Fulltext">Debunking the 100X GPU vs. CPU myth: an evaluation of throughput computing on CPU and GPU</a></span>
+          <span class="Title"><a href="http://dl.acm.org/citation.cfm?id=1816021&coll=GUIDE&dl=GUIDE&ret=1#Fulltext" target="_blank">Debunking the 100X GPU vs. CPU myth: an evaluation of throughput computing on CPU and GPU</a></span>
         </li>
         <li>
           <span class="Date">30 March, IF 4.02, 2PM</span>
           <span class="Presenter">Michel Steuwer</span>
-          <span class="Title"><a href="http://vuduc.org/pubs/choi2014-fmm-gpgpu7.pdf">A CPU–GPU Hybrid Implementation and Model-Driven Scheduling of the Fast Multipole Method</a></span>
+          <span class="Title"><a href="http://vuduc.org/pubs/choi2014-fmm-gpgpu7.pdf" target="_blank">A CPU–GPU Hybrid Implementation and Model-Driven Scheduling of the Fast Multipole Method</a></span>
         </li>
         <li>
           <span class="Date">13 April, IF 2.33, 2PM</span>
           <span class="Presenter">Nikolay Bogoychev</span>
-          <span class="Title"><a href="http://www.cs.ucr.edu/~gupta/teaching/260-15/daga-saahpc11-apu-efficacy.pdf">On the Efficacy of a Fused CPU+GPU Processor(or APU) for Parallel Computing</a></span>
+          <span class="Title"><a href="http://www.cs.ucr.edu/~gupta/teaching/260-15/daga-saahpc11-apu-efficacy.pdf" target="_blank">On the Efficacy of a Fused CPU+GPU Processor(or APU) for Parallel Computing</a></span>
         </li>
         <li>
           <span class="Date">20 April, IF 2.33, 2PM</span>
@@ -45,13 +45,13 @@
         </li>
         <li>
           <span class="Date">27 April, IF 2.33, 2PM</span>
-          <span class="Presenter">TBA</span>
-          <span class="Title">TBA</span>
+          <span class="Presenter">Govind Sreekar Shenoy</span>
+          <span class="Title"><a href="http://www.usc.edu/dept/ee/scip/assets/004/83961.pdf" target="_blank">Warped Register File: A Power Efficient Register File for GPGPUs</a></span>
         </li>
         <li>
           <span class="Date">4 May, TBA, 2PM</span>
           <span class="Presenter">Eric Barnhill</span>
-          <span class="Title"><a href="http://people.csail.mit.edu/jrk/halide-pldi13.pdf">Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines</a></span>
+          <span class="Title"><a href="http://people.csail.mit.edu/jrk/halide-pldi13.pdf" target="_blank">Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines</a></span>
         </li>
 <!-- // Begin copy //
         <li>
