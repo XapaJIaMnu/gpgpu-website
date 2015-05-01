@@ -49,9 +49,74 @@
           <span class="Title"><a href="http://www.usc.edu/dept/ee/scip/assets/004/83961.pdf" target="_blank">Warped Register File: A Power Efficient Register File for GPGPUs</a></span>
         </li>
         <li>
-          <span class="Date">4 May, TBA, 2PM</span>
+          <span class="Date">4 May, IF 2.33, 2PM</span>
           <span class="Presenter">Eric Barnhill</span>
           <span class="Title"><a href="http://people.csail.mit.edu/jrk/halide-pldi13.pdf" target="_blank">Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines</a></span>
+        </li>
+        <li>
+          <span class="Date">4 May, IF 2.33, 2PM</span>
+          <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">11 May, IF 2.33, 2PM</span>
+          <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">18 May, IF 2.33, 2PM</span>
+          <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">25 May, IF 2.33, 2PM</span>
+          <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">1 June, IF 2.33, 2PM</span>
+          <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">8 June, IF 2.33, 2PM</span>
+          <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">15 June, IF 2.33, 2PM</span>
+          <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">22 June, IF 2.33, 2PM</span>
+          <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">29 June, IF 2.33, 2PM</span>
+          <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">6 July, IF 4.02, 2PM</span>
+          <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">13 July, IF 2.33, 2PM</span>
+          <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">20 July, IF 2.33, 2PM</span>
+          <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">27 July, IF 2.33, 2PM</span>
+          <span class="Presenter">TBA</span>
+          <span class="Title">TBA</span>
         </li>
 <!-- // Begin copy //
         <li>
